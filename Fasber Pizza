@@ -1,0 +1,36 @@
+<html>
+<title="www.PizzaFasber.com"> </title>
+<header style="background:Bisque;font-family:cursive;text-align:center"><font color="SaddleBrown">Піцерія Fasber
+ <p style="text-align:center"><img src="https://img.restaurantguru.com/w312/h280/re97-Freddy-Fazbears-Pizza-logo.jpg"height="150">
+<img src="https://fainaidea.com/wp-content/uploads/2017/02/52909eb76581136f7b12936eb9ea6ffa.png" height="150"></p>
+ <table style="border:1px solid green">
+ <tr>
+ <td style="border:1px solid green">назва</td>
+ <td style="border:1px solid green">склад</td>
+ <td style="border:1px solid green">ціна</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid green">4 м'яса</td>
+ <td style="border:1px solid green"> томатна основа, куряче філе, салямі, шинка, бекон </td>
+ <td style="border:1px solid green"> 195грн/256г </td>
+ </tr>
+ <tr>
+ <td style="border:1px solid green">4  сира</td>
+ <td style="border:1px solid green">вершкова основа, сир пармезан,бринза,дорблю,моцарелла</td>
+ <td style="border:1px solid green">175грн/250г</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid green">гавайська</td>
+ <td style="border:1px solid green">вершкова основа, сир памезан, салямі, куряче філе, ананас </td>
+ <td style="border:1px solid green">180грн/250г
+ </tr>
+ <tr>
+ <td style="border:1px solid green">мамма мія</td>
+ <td style="border:1px solid green">гірчичний соус, перець чілі, салямі, бекон</td>
+ <td style="border:1px solid green"> 175грн/236г<td>
+</table>
+ </header>
+ <footer style="font-family:cursive;background:Bisque">
+ Детальніше можна дізнатись<a href="https://five-nights-at-freddys.fandom.com/uk/wiki/Freddy_Fazbear%27s_Pizza_(FNaF)"><font color="blue"> на цьому сайті</a><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/56633/backhand-index-pointing-left-emoji-clipart-xl.png"width="35"height="35">
+ </footer>
+</html>
